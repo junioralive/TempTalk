@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TempTalk/static/css/main.2123f0e6.css",
+    "main.js": "/TempTalk/static/js/main.f47ccef0.js",
+    "index.html": "/TempTalk/index.html",
+    "main.2123f0e6.css.map": "/TempTalk/static/css/main.2123f0e6.css.map",
+    "main.f47ccef0.js.map": "/TempTalk/static/js/main.f47ccef0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2123f0e6.css",
+    "static/js/main.f47ccef0.js"
+  ]
+}
