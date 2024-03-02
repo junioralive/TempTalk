@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TempTalk/static/css/main.c3c83e0a.css",
-    "main.js": "/TempTalk/static/js/main.a283ff28.js",
+    "main.css": "/TempTalk/static/css/main.1663e924.css",
+    "main.js": "/TempTalk/static/js/main.08317916.js",
     "index.html": "/TempTalk/index.html",
-    "main.c3c83e0a.css.map": "/TempTalk/static/css/main.c3c83e0a.css.map",
-    "main.a283ff28.js.map": "/TempTalk/static/js/main.a283ff28.js.map"
+    "main.1663e924.css.map": "/TempTalk/static/css/main.1663e924.css.map",
+    "main.08317916.js.map": "/TempTalk/static/js/main.08317916.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3c83e0a.css",
-    "static/js/main.a283ff28.js"
+    "static/css/main.1663e924.css",
+    "static/js/main.08317916.js"
   ]
 }
