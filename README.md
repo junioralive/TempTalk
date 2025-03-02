@@ -1,4 +1,3 @@
-
 # TempTalk
 
 ![TempTalk](/resources/temptalk.gif)
