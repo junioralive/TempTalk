@@ -3,12 +3,12 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAqG72fkVTMUTdHLiU_ixQl1wSStUsMMRQ",
-  authDomain: "temptalk-f644b.firebaseapp.com",
-  projectId: "temptalk-f644b",
-  storageBucket: "temptalk-f644b.appspot.com",
-  messagingSenderId: "566094356953",
-  appId: "1:566094356953:web:466e7506e4a1a30cfc39c8"
+  apiKey: "AIzaSyCoxmQmdKAzK4OY7y9O6qtUtXpa-Pjw0Sk",
+  authDomain: "tempchat-3109.firebaseapp.com",
+  projectId: "tempchat-3109",
+  storageBucket: "tempchat-3109.firebasestorage.app",
+  messagingSenderId: "427227343653",
+  appId: "1:427227343653:web:aeb335a973d7c947a648cc",
 };
 
 const app = initializeApp(firebaseConfig);
